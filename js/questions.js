@@ -1,44 +1,41 @@
-answers
+// creating an array and passing the number, questions, options, andanswers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "Qual a transformaçao mais forte do Luffy?",
+answer: "Guear 5",
 options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+"Super Sayadin",
+"Ozaru",
+"Buda",
+"Guear 5"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "Qual o nome da akumanomi do Luffy?",
+answer: "Hito hito no mi modelo Nika",
 options: [
-"Timor Lestet",
-"Montenegro",
-"Sudão do Sul",
-"Kosovo"
+"Hito hito no mi",
+"Gomo gomu no mi",
+"Ope ope no mi",
+"Hito hito no mi modelo Nika"
 ]
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
+question: "qual o apelido de Dom Quixote Dom Flamingo?",
+answer: "Demonio Celestial",
 options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+"Dragão Celestial",
+"Flamingo",
+"Demonio Celestial",
+"Criatura mais forte do mundo"
 ]
 },
 {
 numb: 4,
-question: "Quantos pares de costelas um ser humano, normalmente,
-possui?",
+question: "Qual o nome do navio dos chapeis de palha?",
 answer: "12",
 options: [
 "12",
