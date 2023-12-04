@@ -3,12 +3,12 @@ let questions = [
 {
 numb: 1,
 question: "Qual a transformaçao mais forte do Luffy?",
-answer: "Guear 5",
+answer: "Gear 5",
 options: [
 "Super Sayadin",
 "Ozaru",
 "Buda",
-"Guear 5"
+"Gear 5"
 ]
 },
 {
@@ -47,13 +47,13 @@ options: [
 },
 {
 numb: 5,
-question: "?",
-answer: "Vênus e Urano",
+question: "em qual arco do anime foi mostrado pela primeira vez os gears?",
+answer: "Enies Lobby",
 options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
+"Alabasta",
+"East Blue",
+"Enies Lobby",
+"Wano"
 ]
 },
 // you can uncomment the below codes and make duplicate as more as you
