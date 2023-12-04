@@ -36,19 +36,18 @@ options: [
 {
 numb: 4,
 question: "Qual o nome do navio dos chapeis de palha?",
-answer: "12",
+answer: "Thousand Sunny",
 options: [
-"12",
-"11",
-"14",
-"13"
+"Thriller Bark",
+"Ouro Jackson",
+"Thousand Sunny",
+"Moby Dick"
 ]
 
 },
 {
 numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
-rotação em sentido horário?",
+question: "?",
 answer: "Vênus e Urano",
 options: [
 "Saturno e Júpiter",
